@@ -1,4 +1,5 @@
-.env
 /app/__pycache__
 /todel.txt
 /venv
+/pars.py
+/TryTelega.py

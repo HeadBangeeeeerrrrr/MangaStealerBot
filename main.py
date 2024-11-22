@@ -6,7 +6,6 @@ import os
 
 from app.handlers import router
 
-
 async def main():
     load_dotenv()
     bot = Bot(os.getenv('TOKEN'))
