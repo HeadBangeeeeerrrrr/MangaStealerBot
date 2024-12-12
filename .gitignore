@@ -1,5 +1,13 @@
 /app/__pycache__
+__pycache__
 /todel.txt
 /venv
-/pars.py
-/TryTelega.py
+cfg.py
+/app/nohandlers
+text.txt
+/app/handlers.py
+/app/nohandlers.py
+/app/nohandlers2.py
+/app/tryhandlers.py
+TryTelega.py
+libs2.txt
